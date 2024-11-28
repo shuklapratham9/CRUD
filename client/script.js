@@ -21,7 +21,7 @@ document.getElementById('add-alien-form').addEventListener('submit', async (e) =
     }
   });
   
-  // Delete Alien
+  //Delete
   document.getElementById('delete-alien-form').addEventListener('submit', async (e) => {
     e.preventDefault();
   
@@ -40,7 +40,7 @@ document.getElementById('add-alien-form').addEventListener('submit', async (e) =
     }
   });
   
-  // Patch Alien
+  //Patch
   document.getElementById('patch-alien-form').addEventListener('submit', async (e) => {
     e.preventDefault();
   
